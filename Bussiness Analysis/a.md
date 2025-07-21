@@ -23,10 +23,10 @@ permitiendo obtener insights estratégicos.
 -  Lo que hicimos fue calcular el total de ventas por mes.
 -  Incremento de ventas a traves de los años
 -  Precio promedio por venta
-- Tecnicas:'DATE_TRUNC','SUM','AVG'
-##🚀 3. Análisis de rendimiento:
+- Tecnicas:DATE_TRUNC,SUM,AVG
+## 🚀 3. Análisis de rendimiento:
 - Analizamos el rendimiento Anual de los productos
-- Tecnicas: 'SUM','LAG','LEFT JOIN','CASE WHEN'
+- Tecnicas: SUM,LAG,LEFT JOIN,CASE WHEN
 ## 🧩 4. Análisis de parte a todo
 - Porcentaje de ventas totales por categoria de producto
 ## 🧵 5. Segmentación de datos
