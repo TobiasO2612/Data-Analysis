@@ -32,9 +32,9 @@ permitiendo obtener insights estratégicos.
 ## 🧵 5. Segmentación de datos
 - Agrupamos los productos por rango de costo y cuantos productos tenemos en cada rango.
 - Agrupamos a los clientes en tres categorías según su comportamiento de gasto.
-##🧑‍💼 6. Reporte de clientes
+## 🧑‍💼 6. Reporte de clientes
 Reporte detallado por cliente, incluyendo compras totales, última compra, y promedio por transacción.
-##📦 7. Reporte de productos
+## 📦 7. Reporte de productos
 Análisis de rendimiento de productos: ventas totales, unidades vendidas, rotación, productos más y menos vendidos.
 
 
